@@ -1,0 +1,12 @@
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\obj\Debug\netcoreapp3.1\Gestion d’une liste.csproj.CoreCompileInputs.cache
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\obj\Debug\netcoreapp3.1\Gestion d’une liste.AssemblyInfoInputs.cache
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\obj\Debug\netcoreapp3.1\Gestion d’une liste.AssemblyInfo.cs
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\bin\Debug\netcoreapp3.1\Gestion d’une liste.exe
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\bin\Debug\netcoreapp3.1\Gestion d’une liste.deps.json
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\bin\Debug\netcoreapp3.1\Gestion d’une liste.runtimeconfig.json
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\bin\Debug\netcoreapp3.1\Gestion d’une liste.runtimeconfig.dev.json
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\bin\Debug\netcoreapp3.1\Gestion d’une liste.dll
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\bin\Debug\netcoreapp3.1\Gestion d’une liste.pdb
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\obj\Debug\netcoreapp3.1\Gestion d’une liste.dll
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\obj\Debug\netcoreapp3.1\Gestion d’une liste.pdb
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une liste\obj\Debug\netcoreapp3.1\Gestion d’une liste.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\obj\Debug\netcoreapp3.1\Gestion d’une énumération.csprojAssemblyReference.cache
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\obj\Debug\netcoreapp3.1\Gestion d’une énumération.csproj.CoreCompileInputs.cache
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\obj\Debug\netcoreapp3.1\Gestion d’une énumération.AssemblyInfoInputs.cache
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\obj\Debug\netcoreapp3.1\Gestion d’une énumération.AssemblyInfo.cs
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\bin\Debug\netcoreapp3.1\Gestion d’une énumération.exe
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\bin\Debug\netcoreapp3.1\Gestion d’une énumération.deps.json
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\bin\Debug\netcoreapp3.1\Gestion d’une énumération.runtimeconfig.json
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\bin\Debug\netcoreapp3.1\Gestion d’une énumération.runtimeconfig.dev.json
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\bin\Debug\netcoreapp3.1\Gestion d’une énumération.dll
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\bin\Debug\netcoreapp3.1\Gestion d’une énumération.pdb
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\obj\Debug\netcoreapp3.1\Gestion d’une énumération.dll
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\obj\Debug\netcoreapp3.1\Gestion d’une énumération.pdb
+C:\Users\mgogn\OneDrive\Bureau\cours\Cours\ap prog\Recherche Internet\Gestion d’un tableau à une dimension\Gestion d’une énumération\obj\Debug\netcoreapp3.1\Gestion d’une énumération.genruntimeconfig.cache
